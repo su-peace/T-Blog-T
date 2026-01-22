@@ -28,8 +28,8 @@ tags:
 
 >[!code]- 
 >```Python
-import sys#导入sys包
-sys.float_info#查看
+>import sys#导入sys包
+>sys.float_info#查看
 >```
 >如果在命令行中使用，该命令会直接说出浮点数的取值范围和精度，但是在编译器中我们得为它设置一个变量名例如`var = sys.float_info`
 
