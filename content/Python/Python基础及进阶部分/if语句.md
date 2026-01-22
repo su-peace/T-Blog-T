@@ -36,7 +36,7 @@ elif 条件2:
 
 示例：
 `if-else`
->[!example]-
+>[!example]- 
 >代码：
 >```python
 >car = 'bTR'
@@ -52,7 +52,7 @@ elif 条件2:
 >```
 
 `if-elif-else`
->[!example]-
+>[!example]- 
 >代码：
 >```python
 >age = 12

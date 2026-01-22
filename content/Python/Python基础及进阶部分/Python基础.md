@@ -26,7 +26,7 @@ tags:
 	-  Python通常会按照正确的形式存储数据，错误的如`0.2+0.1`和`3*0.1`的结果
 	-  查看浮点数取值范围和精度
 
->[!code]-
+>[!code]- 
 >```Python
 import sys#导入sys包
 sys.float_info#查看
